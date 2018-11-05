@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Data Structures & interview Preparation",
+    "description": "use ES6 to understand different DS & apply them to solve probelems & crack interviews",
+    "price": 1200
+  },
+  {
+    "id": 2,
+    "title": "POCO Smartphone",
+    "description": "Smartphone flagship killer",
+    "price": 25000
+  },
+  {
+    "id": 3,
+    "title": "React 16 (Maxi)",
+    "description": "complete React 16 course",
+    "price": 700
+  },
+  {
+    "id": 4,
+    "title": "Node with React ",
+    "description": "Full stack development",
+    "price": 700
+  },
+  {
+    "id": 5,
+    "title": "React & Redux (Andrew Mead) ",
+    "description": "Develop expensify App with React16",
+    "price": 700
+  },
+  {
+    "id": 6,
+    "title": "NodeJS (Maxi)",
+    "description": "Understand Nodejs & develop apps",
+    "price": 700
+  }
+]
